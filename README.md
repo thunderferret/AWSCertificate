@@ -12,6 +12,9 @@ https://brunch.co.kr/@topasvga/233
 
 ### 강의
 
-udemy : 
+목표 강의 -
+udemy : https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/
 
+입문용 강의 -
+인프런 (생활코딩) :  https://opentutorials.org/course/2717
 
