@@ -18,3 +18,7 @@ udemy : https://www.udemy.com/course/aws-certified-solutions-architect-associate
 입문용 강의 -
 인프런 (생활코딩) :  https://opentutorials.org/course/2717
 
+### 팀원 폴더 
+
+각 팀원별로 공부한 내용, 완료한 주차, 공부시간을 기록합니다.
+
